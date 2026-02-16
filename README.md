@@ -25,7 +25,7 @@ This project is built to run effortlessly in Google Colab, taking advantage of t
 3. Run **Cell 1** to install the required dependencies (`yt-dlp`, `faster-whisper`, `transformers`, etc.).
 4. Run the remaining cells to load the Whisper and Qwen models into VRAM.
 5. In the final execution cell, paste any YouTube tutorial URL when prompted.
-6. Click **📥 Download Notes (.md)** when the generation finishes!
+6. Click ** Download Notes (.md)** when the generation finishes!
 
 ##  Notes on Colab Widgets
 If you are viewing this notebook directly on GitHub, you may see rendering errors regarding `application/vnd.jupyter.widget-state+json`. This is a known GitHub limitation with the interactive loading bars (`tqdm`) used by Hugging Face. The code itself is perfectly intact—just open it in Colab to run!
